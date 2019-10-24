@@ -1,2 +1,2 @@
-<!-- This file allows you to host this page as a static file on Heroku -->
+<!-- https://realtime.ifttt.com/v1/notifications -->
 <?php header( 'Location: /index.html' ) ;  ?>
